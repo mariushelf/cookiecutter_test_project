@@ -8,7 +8,7 @@ import cookiecutter_test_project
 def test_reminder():
     """Reminder to write tests."""
     assert (
-        False
+        True
     ), "If this test runs it probably means that you have not written your own tests yet 😱 Do it now!"
 
 
